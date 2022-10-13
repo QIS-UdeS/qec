@@ -2,17 +2,7 @@
 
 [Quantum error correction](https://en.wikipedia.org/wiki/Quantum_error_correction) (QEC) is one of the most essential theoretical aspects of quantum information processing, aimed to protect quantum information from errors due to decoherence and other noise effects, QEC is considered as an essential approach in achieving fault-tolerant quantum computation by reducing the effects of noise on stored quantum information, faulty quantum gates, preparation, and measurements. 
 
-This repo includes code tests for QEC using [QuTiP](https://qutip.org/), an open-source software for simulating the dynamics of open quantum systems, besides other Python libraries.
-
-## Basics
-
-* Bit flip code: <br />
-[open notebook]() <br />
-[run live on Colab]()
-
-next...
-- Sign flip code
-- Shor code
+This repo includes code tests for QEC using Qiskit, QuTiP, and other Python libraries.
 
 
 ## Ressources 
