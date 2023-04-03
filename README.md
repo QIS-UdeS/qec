@@ -10,4 +10,4 @@ This repo includes code tests for QEC using Qiskit, QuTiP, and other Python libr
 - [John Preskill, Ph219/CS219 course on Quantum Computation](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html) 
 - [Steven Girvin, Introduction to Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)
 
-##### *Implemented codes are for testing purposes and might be incomplete yet.
+##### *Implemented codes are for testing purposes and might be incomplete.
